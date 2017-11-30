@@ -1,0 +1,83 @@
+body {
+
+    text-align: center;
+    padding: 20px
+
+}
+
+
+h1 {
+    font-weight: 5000;
+    font-size: 50px;
+    font-size: 2000;
+    letter-spacing: -2px;
+    color: black;
+    text-decoration: none;
+    line-height: 01;
+    font-family: 'helvetica';
+
+
+}
+
+h2, a {  font-weight: 100;
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: black;
+    text-decoration: none;
+    line-height: 01;
+    font-family: 'helvetica';
+    line-height: 1.3;
+
+}
+
+
+a {
+    color: red;
+}
+
+
+    @font-face {
+     font-family: geometric-regular;
+     src: url('modular.otf'); 
+}
+
+
+textarea {
+    
+    border: 1px solid WHITE;
+    padding: 5px, 5
+        px; 
+    font-family: 'geometric-regular';
+    line-height: 01;
+    font-size: 50px;
+    margin: AUTO;
+    text-align: center;
+    letter-spacing: -1px;
+        
+}
+
+
+#wrap { 
+	width: 900px; 
+	margin: 0 auto; 
+}
+
+
+#header {
+    padding: 20px;
+    margin: auto;
+}
+
+
+button {
+    background-color: white;
+    border: none;
+    color: red;
+    padding: 0px
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 5000;
+    line-height: 01;
+    font-family: 'helvetica';
+}
